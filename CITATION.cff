@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this repository or the ERS-2026-003 publication, please cite it as below."
+title: "ERS-2026-003: Why Carrier-Board Module-Current Measurements Can Be Misleading"
+version: "1.0"
+date-released: 2026-10-15
+authors:
+  - family-names: "Ogunjemilua"
+    given-names: "Oluwanifemi Adelana"
+    affiliation: "Radianode Ltd"
+    orcid: "https://orcid.org/0009-0003-5205-7738"
+repository-code: "https://github.com/Radianode/ers-2026-003"
+url: "https://radianode.com/engineering-insights"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23399520"
+    description: "Zenodo dataset of the raw Power Profiler recordings"
+license:
+  - MIT
+  - CC-BY-4.0
+type: software
